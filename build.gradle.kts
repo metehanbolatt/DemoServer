@@ -22,5 +22,6 @@ dependencies {
     implementation("io.ktor:ktor-server-netty:1.6.6")
     implementation("ch.qos.logback:logback-classic:1.2.8")
     implementation("io.ktor:ktor-serialization:1.6.6")
+    implementation("io.ktor:ktor-html-builder:1.6.6")
 
 }
